@@ -1,0 +1,1 @@
+simpleWeather.js Geolocation Test
